@@ -38,8 +38,8 @@ This project focuses on predicting diabetes using machine learning techniques an
 
 ## Results
 
-![image alt]https://github.com/adityaawati45/Diabetes-Health-Prediction-System/blob/18778dc5363bc79967baf14cd86902bf49084307/WhatsApp%20Image%202025-02-11%20at%203.45.34%20AM.jpeg
+![image alt](https://github.com/adityaawati45/Diabetes-Health-Prediction-System/blob/18778dc5363bc79967baf14cd86902bf49084307/WhatsApp%20Image%202025-02-11%20at%203.45.34%20AM.jpeg)
 
-![image alt]
+![image alt](https://github.com/adityaawati45/Diabetes-Health-Prediction-System/blob/95bea9811564bc30e5e2f95b9d9f8c6d3d3e4e0f/WhatsApp%20Image%202025-02-11%20at%2012.09.51%20PM.jpeg)
 
 
