@@ -36,3 +36,7 @@ This project focuses on predicting diabetes using machine learning techniques an
 - The model will predict the likelihood of diabetes.
 - If at risk, personalized recommendations will be displayed.
 
+## Results
+
+![image alt]
+
