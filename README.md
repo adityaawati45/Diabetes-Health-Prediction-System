@@ -29,7 +29,7 @@ This project focuses on predicting diabetes using machine learning techniques an
 - **Programming Languages:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn,Streamlit
 - **Big Data Technologies:** PySpark (for data processing)
-- **Deployment:** Flask-based API, Streamlit UI
+- **Deployment:** Streamlit UI
 
 ## Usage
 - Enter health-related parameters in the web application.
