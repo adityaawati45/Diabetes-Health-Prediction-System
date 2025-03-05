@@ -1,7 +1,7 @@
 # Diabetes Prediction and Recommendation System
 
 ## Overview
-This project focuses on predicting diabetes using machine learning techniques and providing health recommendations based on the predictions. The system utilizes an **XGBoost model** for accurate diabetes classification and integrates a **Flask-based web application** for user interaction.
+This project focuses on predicting diabetes using machine learning techniques and providing health recommendations based on the predictions. The system utilizes an **Random Forest model** for accurate diabetes classification and integrates a **streamlit-based web application** for user interaction.
 
 ## Dataset
 - **Source:** CDC's Behavioral Risk Factor Surveillance System (BRFSS) 2015 dataset
